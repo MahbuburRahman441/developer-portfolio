@@ -20,12 +20,30 @@ section{
 }
 .link-button{
     text-decoration: none;
-    color: rgb(52, 25, 25);
+    color: rgb(255, 255, 255);
     background-image: linear-gradient(rgb(245, 138, 112), rgb(223, 60, 42));
     padding: 5px 30px;
     border-radius: 5px;
 }
 .top-banner{
     background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.half-width2{
+    width: 50%;
+    padding: 5%;
+}
+.half-width2 img{
+    width:80%;
+}
+.link-button2{
+    text-decoration: none;
+    color: white;
+    background-image:linear-gradient(rgb(245, 138, 112), rgb(223, 60, 42)) ;
+    padding: 5px 30px;
+    border-radius: 5px;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
 }
